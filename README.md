@@ -1,5 +1,5 @@
 - 👋 Hello Everyone, Hope All you are doing well!
-- This is @samba-chinta, CS graduate at <a href="http://www.gvpce.ac.in/">GVPCE</a>, Vizag.
+- This is @samba-chinta, CS student at <a href="http://www.gvpce.ac.in/">GVPCE</a>, Vizag.
 - I am interested in web development.
 - I’m looking to collaborate on projects on web designing.
 - You can reach me by mail <a href="mailto:ssrchinta@gmail.com">Email</a> or by <a href="https://www.instagram.com/front_end_dev.09/">Instagram</a>
