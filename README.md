@@ -1,6 +1,10 @@
 - 👋 Hello Everyone, Hope All you are doing well!
-- This is @samba-chinta, CS student at <a href="http://www.gvpce.ac.in/">GVPCE</a>, Vizag.
-- I am interested in web development.
-- I’m looking to collaborate on projects on web designing.
-- You can reach me by mail <a href="mailto:ssrchinta@gmail.com">Email</a> or by <a href="https://www.instagram.com/front_end_dev.09/">Instagram</a>
-- My Webpage is <a href="https://samba-chinta.github.io/sam-blog/">Samba-Portfolio</a>
+- This is **Samba Siva Reddy**, CS student at [GVPCE](http://www.gvpce.ac.in/), Vizag.
+- I am interested in Web Development and Machine Learning.
+
+## Skills
+- HTML & CSS
+- Javascript
+- React
+- Python
+
