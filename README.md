@@ -7,10 +7,15 @@ I am Samba Siva Reddy Chinta, 21 years old. Currently I am doing my Undergraduat
 <h2>Languages and Tools</h2>
 <br>
 
-![Nodejs](https://img.icons8.com/color/64/000000/nodejs.png) ![reactjs](https://img.icons8.com/plasticine/64/000000/react.png) ![mongodb](https://img.icons8.com/color/64/000000/mongodb.png) ![sass](https://img.icons8.com/color/64/000000/sass.png) ![Javascript](https://img.icons8.com/color/64/000000/javascript--v1.png)
-<br>
-
-![python](https://img.icons8.com/color/64/000000/python--v1.png) ![c++](https://img.icons8.com/color/64/000000/c-plus-plus-logo.png) ![vscode](https://img.icons8.com/color/64/000000/visual-studio-code-2019.png) ![git](https://img.icons8.com/color/64/000000/git.png)
+<ul>
+<li>Python</li>
+<li>Java</li>
+<li>C++</li>
+<li>Javascript</li>
+<li>HTML & CSS</li>
+<li>React.js</li>
+<li>Node.js</li>
+</ul>
 
 <h2>Contact Me on</h2>
 
