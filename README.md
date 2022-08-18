@@ -20,7 +20,3 @@ I am Samba Siva Reddy Chinta, 21 years old. Currently I am doing my Undergraduat
 <h2>Contact Me on</h2>
 
 [Github](https://github.com/samba-chinta) | [Linkedin](https://www.linkedin.com/in/samba-siva-reddy-chinta-78a9651b2/) | [Twitter](https://twitter.com/Samba30433849)
-
-<h2>Stats</h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samba-chinta)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samba-chinta)](https://github.com/anuraghazra/github-readme-stats)
