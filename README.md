@@ -15,7 +15,6 @@ I am Samba Siva Reddy Chinta, 22 years old. Currently I am doing my Undergraduat
   <li>HTML & CSS</li>
   <li>Data Structures and Algorithms</li>
 </ul>
-<br>
 <h2>Frameworks and Libraries: </h2>
 <ul>
 <li>React.js</li>
