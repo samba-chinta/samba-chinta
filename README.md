@@ -5,7 +5,6 @@
 I am Samba Siva Reddy Chinta, 22 years old. Currently I am doing my Undergraduation in computer science at Gayatri Vidyaparishad College of Engineering, Vishakapatnam. I am always passionate of learning new technologies and recently I started working on Blockchain.
 
 <h2>Skills: </h2>
-<br>
 <ul>
   <li>Python</li>
   <li>Java</li>
@@ -16,9 +15,8 @@ I am Samba Siva Reddy Chinta, 22 years old. Currently I am doing my Undergraduat
   <li>HTML & CSS</li>
   <li>Data Structures and Algorithms</li>
 </ul>
-
-<h2>Frameworks and Libraries: </h2>
 <br>
+<h2>Frameworks and Libraries: </h2>
 <ul>
 <li>React.js</li>
 <li>Node.js</li>
