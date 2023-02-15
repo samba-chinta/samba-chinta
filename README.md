@@ -24,4 +24,4 @@ I am Samba Siva Reddy Chinta, 22 years old. Currently I am doing my Undergraduat
 
 <h2>Contact: </h2>
 
-[Github](https://github.com/samba-chinta) | [Linkedin](https://www.linkedin.com/in/samba-siva-reddy-chinta-78a9651b2/) 
+[Github](https://github.com/samba-chinta) | [Linkedin](https://in.linkedin.com/in/v-n-g-samba-siva-reddy-chinta-78a9651b2) 
